@@ -116,7 +116,7 @@ const Dashboard = () => {
           </div>
 
           <p className="text-sm md:text-base text-gray-600 mb-4">
-            Here's what's happening with your business today
+            Here what is happening with your business today
           </p>
 
           {/* Search - Mobile Collapsed */}
