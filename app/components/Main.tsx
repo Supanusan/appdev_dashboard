@@ -89,7 +89,7 @@ const Dashboard = () => {
               Dashboard / Overview
             </nav>
             <h1 className="text-2xl font-bold text-gray-800">
-              Welcome back, Sarah!
+              Welcome back, Supanusan!
             </h1>
             <p className="text-gray-600">
               Here what is happening with your business today
@@ -137,7 +137,9 @@ const Dashboard = () => {
               <div className="h-8 w-8 rounded-full bg-blue-500 flex items-center justify-center text-white font-medium">
                 S
               </div>
-              <span className="text-sm font-medium">Sarah Johnson</span>
+              <span className="text-sm font-medium">
+                Thirukkeswaran Supanusan{" "}
+              </span>
             </div>
           </div>
         </div>
