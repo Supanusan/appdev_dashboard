@@ -92,7 +92,7 @@ const Dashboard = () => {
               Welcome back, Sarah!
             </h1>
             <p className="text-gray-600">
-              Here's what's happening with your business today
+              Here what is happening with your business today
             </p>
           </div>
 
