@@ -5,9 +5,7 @@ type MenuItem = {
   items: string[];
 };
 
-type Props = {};
-
-export default function Sidebar({}: Props) {
+export default function Sidebar() {
   const menuSections: MenuItem[] = [
     {
       title: "MAIN",
